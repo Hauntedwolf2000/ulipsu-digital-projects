@@ -1,0 +1,20 @@
+{
+ "id": "L3FE15",
+ "title": "Portfolio Planner",
+ "subject": "FE",
+ "level": 3,
+ "ilm": "L3FE15",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "FE.PORTFOLIO.OPTIONS",
+  "FE.PORTFOLIO.BUILD",
+  "FE.PORTFOLIO.COMPARE",
+  "FE.PORTFOLIO.RISK",
+  "FE.PORTFOLIO.RETURNS",
+  "FE.PORTFOLIO.COMMUNICATE"
+ ],
+ "build": "2026-11-24",
+ "checksum": "36699801"
+}

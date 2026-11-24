@@ -1,0 +1,19 @@
+{
+ "id": "L3FE10",
+ "title": "First Fund",
+ "subject": "FE",
+ "level": 3,
+ "ilm": "L3FE10",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "FE.FUNDS.SPLIT",
+  "FE.FUNDS.TYPES",
+  "FE.FUNDS.RISK",
+  "FE.FUNDS.SIP",
+  "FE.FUNDS.COMMUNICATE"
+ ],
+ "build": "2026-11-24",
+ "checksum": "dc4fd09f"
+}

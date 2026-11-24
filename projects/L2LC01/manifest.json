@@ -1,0 +1,18 @@
+{
+ "id": "L2LC01",
+ "title": "Let's Make a Deal",
+ "subject": "LC",
+ "level": 2,
+ "ilm": "L2LC01",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "LC.NEGOTIATE.PROCESS",
+  "LC.NEGOTIATE.TECHNIQUES",
+  "LC.NEGOTIATE.COMPROMISE",
+  "LC.NEGOTIATE.FAIRNESS"
+ ],
+ "build": "2026-11-24",
+ "checksum": "7ab3394e"
+}

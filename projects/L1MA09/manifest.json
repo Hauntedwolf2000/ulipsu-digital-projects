@@ -1,0 +1,19 @@
+{
+ "id": "L1MA09",
+ "title": "Garden Builders",
+ "subject": "MA",
+ "level": 1,
+ "ilm": "L1MA09",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "MA.SHAPES.DESIGN",
+  "MA.SHAPES.TRANSFORM",
+  "MA.SHAPES.PROPERTIES",
+  "MA.SHAPES.APPLY",
+  "MA.SHAPES.COMMUNICATE"
+ ],
+ "build": "2026-11-24",
+ "checksum": "5c86f4cb"
+}

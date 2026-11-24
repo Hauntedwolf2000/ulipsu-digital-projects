@@ -1,0 +1,18 @@
+{
+ "id": "L2LC07",
+ "title": "Voice for the Planet",
+ "subject": "LC",
+ "level": 2,
+ "ilm": "L2LC07",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "LC.LETTER.EVIDENCE",
+  "LC.LETTER.DRAFT",
+  "LC.LETTER.FOLLOWUP",
+  "LC.LETTER.CAMPAIGN"
+ ],
+ "build": "2026-11-24",
+ "checksum": "f42d70f0"
+}

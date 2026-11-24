@@ -1,0 +1,18 @@
+{
+ "id": "L2LS15",
+ "title": "Feelings Detective",
+ "subject": "LS",
+ "level": 2,
+ "ilm": "L2LS15",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "LS.EMOTION.SIGNALS",
+  "LS.EMOTION.REGULATE",
+  "LS.EMOTION.PLAN",
+  "LS.EMOTION.EMPATHY"
+ ],
+ "build": "2026-11-24",
+ "checksum": "ca138a70"
+}

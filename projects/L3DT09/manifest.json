@@ -1,0 +1,20 @@
+{
+ "id": "L3DT09",
+ "title": "Room Redesign Lab",
+ "subject": "DT",
+ "level": 3,
+ "ilm": "L3DT09",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "DT.DESIGN.LAYOUT",
+  "DT.DESIGN.SCALE",
+  "DT.DESIGN.TEST",
+  "DT.DESIGN.ITERATE",
+  "DT.DESIGN.COMMUNICATE",
+  "DT.DESIGN.COST"
+ ],
+ "build": "2026-11-24",
+ "checksum": "66a6c5a1"
+}

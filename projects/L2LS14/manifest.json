@@ -1,0 +1,18 @@
+{
+ "id": "L2LS14",
+ "title": "Note Ninjas",
+ "subject": "LS",
+ "level": 2,
+ "ilm": "L2LS14",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "LS.NOTES.KEYFACTS",
+  "LS.NOTES.CORNELL",
+  "LS.NOTES.REVIEW",
+  "LS.NOTES.SUMMARY"
+ ],
+ "build": "2026-11-24",
+ "checksum": "339ba1dd"
+}

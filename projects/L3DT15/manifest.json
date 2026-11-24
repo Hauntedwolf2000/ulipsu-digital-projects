@@ -1,0 +1,20 @@
+{
+ "id": "L3DT15",
+ "title": "StudyFuel Startup",
+ "subject": "DT",
+ "level": 3,
+ "ilm": "L3DT15",
+ "version": "1.0.0",
+ "runtime": "1.1.0",
+ "maxPoints": 1000,
+ "lo": [
+  "DT.STARTUP.INSIGHT",
+  "DT.STARTUP.CANVAS",
+  "DT.STARTUP.LAUNCH",
+  "DT.STARTUP.PROTOTYPE",
+  "DT.STARTUP.FINANCE",
+  "DT.STARTUP.PITCH"
+ ],
+ "build": "2026-11-24",
+ "checksum": "d8c46af5"
+}
